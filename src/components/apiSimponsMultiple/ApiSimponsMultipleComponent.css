@@ -1,0 +1,11 @@
+.contenedorImagenes{
+    display: grid;
+    grid-template-columns: repeat(3,33%);
+    justify-content: center;
+    align-items: center;
+}
+
+.imagenSimponsMultiple{
+    width: 250px;
+    height: 250px;
+}
